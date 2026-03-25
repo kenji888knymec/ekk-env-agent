@@ -290,42 +290,46 @@ A〜Fの全ての結果を統合して最終成果物を作成する。
 
 ## 📧 環境・安全 事務局メンバー一覧（メール宛先確認用）
 
+> **使い分けメモ**
+> - 「環境・安全」の連絡 → 下記フルリスト
+> - 「環境のみ」の連絡 → ★印の人を除外する
+
 ### 宛先（To）
-| メールID | 氏名（日本語） |
-|----------|--------------|
-| yanuma, isamu | 矢沼仕 |
-| yamamoto, tadashi | 山本稲郎 |
-| sato, ryosuke | 佐藤錦祐 |
-| komi, takanobu | 巨海貴暢 |
-| nishi, shigeharu | 西繁治 |
-| takamori, go | 高森豪 |
-| nishimura, masaki | 西村（読み未確認） |
-| kaneko, atsushi | 金子敦 |
-| tezuka, takayuki | 手塚隆之 |
-| iijima, norihito | 飯島規仁 |
-| nitta, mikio | 新田幹夫 |
-| tateishi, akio | 立石明夫 |
+| メールID | 氏名（日本語） | 環境のみ時 |
+|----------|--------------|-----------|
+| yanuma, isamu | 矢沼仕 | ○ |
+| yamamoto, tadashi | 山本稲郎 | ○ |
+| sato, ryosuke | 佐藤錦祐 | ○ |
+| komi, takanobu | 巨海貴暢 | ○ |
+| nishi, shigeharu | 西繁治 | ○ |
+| takamori, go | 高森豪 | ○ |
+| nishimura, masaki | 西村（読み未確認） | ○ |
+| kaneko, atsushi | 金子敦 | ○ |
+| tezuka, takayuki | 手塚隆之 | ○ |
+| iijima, norihito | 飯島規仁 | ★除外 |
+| nitta, mikio | 新田幹夫 | ○ |
+| tateishi, akio | 立石明夫 | ○ |
 
 ### CC
-| メールID | 氏名（日本語） |
-|----------|--------------|
-| ogata, tomoko | 稲方智子 |
-| funayama, kazuki | 船山和樹 |
-| kawasaki, hiroshi | 川崎比呂史 |
-| fukuda, keisuke | 福田佳祐 |
-| ham, jaemin | 咸在仁 |
-| kawahara, keishi | 川原恵司 |
-| furuyama, katsuyuki | 古山（読み未確認） |
-| watanabe, yoko | 渡辺（読み未確認） |
-| yoshida, minoru | 吉田稔 |
-| fujita, ayako | 藤田彩子 |
-| wada, shintaro | 和田慎太郎 |
-| kako, norihiro | 加古直大 |
-| oishi, yuko | 大石優子 |
-| shibatuji, yukinori | 芝辻祐己典 |
-| asami, satoshi | 浅見聡（浅見副部長） |
-| uno, tetsuo | 宇野哲郎 |
-| fukaya, haruhisa | 深谷友久 |
-| yonemitsu, masato | 米満正人 |
-| miyamura, atsushi | 宮村淳史 |
+| メールID | 氏名（日本語） | 環境のみ時 |
+|----------|--------------|-----------|
+| ogata, tomoko | 稲方智子 | ○ |
+| funayama, kazuki | 船山和樹 | ○ |
+| kawasaki, hiroshi | 川崎比呂史 | ○ |
+| fukuda, keisuke | 福田佳祐 | ★除外 |
+| ham, jaemin | 咸在仁 | ○ |
+| kawahara, keishi | 川原敬司 | ★除外 |
+| furuyama, katsuyuki | 古山（読み未確認） | ○ |
+| watanabe, yoko | 渡辺（読み未確認） | ○ |
+| yoshida, minoru | 吉田稔 | ○ |
+| fujita, ayako | 藤田彩子 | ○ |
+| wada, shintaro | 和田慎太郎 | ★除外 |
+| kako, norihiro | 加古直大 | ○ |
+| oishi, yuko | 大石優子 | ★除外 |
+| shibatsuji, yukinori | 芝辻佑己典 | ★除外 |
+| asami, satoshi | 浅見聡（浅見副部長） | ○ |
+| uno, tetsuro | 宇野哲郎 | ★除外 |
+| fukaya, haruhisa | 深谷玄久 | ★除外 |
+| yonemitsu, masato | 米滿正人 | ★除外 |
+| miyamura, atsushi | 宮村淳史 | ○ |
 
