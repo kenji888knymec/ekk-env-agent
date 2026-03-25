@@ -327,4 +327,5 @@ A〜Fの全ての結果を統合して最終成果物を作成する。
 | uno, tetsuo | 宇野哲郎 |
 | fukaya, haruhisa | 深谷友久 |
 | yonemitsu, masato | 米満正人 |
+| miyamura, atsushi | 宮村淳史 |
 
